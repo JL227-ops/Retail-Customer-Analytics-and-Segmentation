@@ -1,5 +1,5 @@
 # Retail Customer Segmentation and Pattern Discovery Using Data Mining Techniques
-### CS 4412 – Data Mining  
+### Data Mining  
 ### Final Deliverable (M4)
 ---
 
